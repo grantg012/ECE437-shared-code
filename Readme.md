@@ -22,8 +22,6 @@ The files are:
 * compare_traces.py - Changed this to run in Python3. It can run the
   simulator with caches and perform cleaning on cache trace files. It also
   runs the simulator and student CPUs simultaneously to be a little faster. 
-* caches.sv - This is for the single cycle branch. It was missing a sensitivity
-  to nRST at the start of the semester, though that may have been fixed since.
 
 Then two other semi-helpful ones I made:
 * split_out.py - Python3 script. Not sure how useful this will be to most, but it
