@@ -31,5 +31,5 @@ Then two other semi-helpful ones I made:
   useful when a student's CPU executed instruction in a different order than the simulator.
 
 
-Files from Spring 2021 semester. NGL, as or writing I don't remember all this is,
+Files from Spring 2021 semester. NGL, as of writing I don't remember if all this
 will integrate right off the bat, but it should be pretty close.
